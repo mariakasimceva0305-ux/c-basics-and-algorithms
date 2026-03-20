@@ -1,17 +1,17 @@
-# c-basics-and-algorithms
+﻿# c-basics-and-algorithms
 
 Archived university C coursework.
 
-This repository is a consolidated archive of educational C programs and lab assignments.
-Projects are preserved as coursework snapshots with minimal cleanup and no source logic refactoring.
-
 ## Repository Structure
 
-- `algorithms/` - algorithm-focused coursework projects (graphs, SAT, parenthesis checks, and related tasks).
-- `labs/` - university lab assignments and practical C exercises.
+- `algorithms/` - algorithm-focused coursework projects.
+- `labs/` - university lab assignments in C.
 
-## Notes
+## Archive Scope
 
-- All projects are educational.
-- Source logic was not rewritten during archive assembly.
-- Only relevant archive materials are included (C headers/sources and selected text files).
+The repository contains archived source snapshots of educational C tasks:
+
+- `.c` and `.h` source files
+- selected task and test text files
+
+Source logic is preserved as in the original coursework versions.
