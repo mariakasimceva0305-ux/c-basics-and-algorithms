@@ -1,0 +1,37 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+dist/
+Debug/
+Release/
+x64/
+x86/
+cmake-build-*/
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Python cache (just in case)
+__pycache__/
